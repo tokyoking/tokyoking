@@ -31,3 +31,7 @@
 - [calling mprotect into self modifying shellcode](../../../../../tokyoking/ctf/tree/main/shellcode/HKCERTCTF24/shellcode_runner3/)
 
 - [getting a leak from not cleared fs_base register into calling one gaget](../../../../../tokyoking/ctf/tree/main/shellcode/HKCERTCTF24/shellcode_runner3(revenge)/)
+
+### Buffer overflow
+
+- [Brute-forcing a fork() process into leaking canary](../../../../../tokyoking/ctf/tree/main/buffer_overflow/UTCCTF24)
