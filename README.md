@@ -17,11 +17,17 @@
 
 - [fake chunk into overwriting got entries to get a leak](../../../../../tokyoking/ctf/tree/main/heap/tcache/BACKDOOR23/Konsolidator)
 
-- [fastbin dup attack into free_hook overwrite](../../../../../tokyoking/ctf/tree/main/heap/otherbins/JUSTCTF22/pwn_notes/README.md)
+- [fastbin dup attack into free_hook overwrite](../../../../../tokyoking/ctf/tree/main/heap/otherbins/JUSTCTF22/pwn_notes/)
 
 
 ### Format String
 
-- [ROP from saved rip of main](../../../../../tokyoking/ctf/tree/main/format_string/BACKDOOR23/Baby_formatter)
+- [write ROP to saved rip of main](../../../../../tokyoking/ctf/tree/main/format_string/BACKDOOR23/Baby_formatter)
 
-- [overwrite the key to pass a check](../../../../../tokyoking/ctf/tree/main/format_string/BlueHensCTF24/README.md)
+- [overwrite the key to pass a check](../../../../../tokyoking/ctf/tree/main/format_string/BlueHensCTF24/)
+
+### Shellcode
+
+- [calling mprotect into self modifying shellcode](../../../../../tokyoking/ctf/tree/main/shellcode/HKCERTCTF24/shellcode_runner3/)
+
+- [getting a leak from not cleared fs_base register into calling one gaget](../../../../../tokyoking/ctf/tree/main/shellcode/HKCERTCTF24/shellcode_runner3(revenge)/)
