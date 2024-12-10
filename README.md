@@ -14,5 +14,6 @@
 
 **Glibc 2.31**
 
-- [fastbin dup attack into free_hook overwrite](../../../../../tokyoking/ctf/tree/main/heap/tcache/BACKDOOR23/Konsolidator)
+- [fake chunk into overwriting got entries to get a leak](../../../../../tokyoking/ctf/tree/main/heap/tcache/BACKDOOR23/Konsolidator)
 
+- [fastbin dup attack into free_hook overwrite](../../../../../tokyoking/ctf/tree/main/heap/otherbins/JUSTCTF22/pwn_notes/README.md)
