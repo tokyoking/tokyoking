@@ -10,4 +10,9 @@
 <b>dumping my notes for future reference</b>
 </p>
 
-[ABout heap](../../../../../tokyoking/ctf/tree/main/heap/tcache/BACKDOOR23/Konsolidator)
+[HEAP](../../../../../tokyoking/ctf/tree/main/heap/)
+
+Glibc 2.31
+
+- [fastbin dup attack into free_hook overwrite](../../../../../tokyoking/ctf/tree/main/heap/tcache/BACKDOOR23/Konsolidator)
+
