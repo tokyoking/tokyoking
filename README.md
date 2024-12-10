@@ -10,4 +10,4 @@
 <b>dumping my notes for future reference</b>
 </p>
 
-[ABout heap](ctf../../../../)
+[ABout heap](../../../../../)
