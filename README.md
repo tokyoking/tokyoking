@@ -10,9 +10,9 @@
 <b>dumping my notes for future reference</b>
 </p>
 
-[HEAP](../../../../../tokyoking/ctf/tree/main/heap/)
+[HEAP exploits](../../../../../tokyoking/ctf/tree/main/heap/)
 
-Glibc 2.31
+**Glibc 2.31**
 
 - [fastbin dup attack into free_hook overwrite](../../../../../tokyoking/ctf/tree/main/heap/tcache/BACKDOOR23/Konsolidator)
 
