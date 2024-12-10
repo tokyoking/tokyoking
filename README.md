@@ -10,7 +10,8 @@
 <b>dumping my notes for future reference</b>
 </p>
 
-[HEAP exploits](../../../../../tokyoking/ctf/tree/main/heap/)
+### Heap
+[HEAP techniques](../../../../../tokyoking/ctf/tree/main/heap/)
 
 **Glibc 2.31**
 
@@ -19,7 +20,7 @@
 - [fastbin dup attack into free_hook overwrite](../../../../../tokyoking/ctf/tree/main/heap/otherbins/JUSTCTF22/pwn_notes/README.md)
 
 
-[Format string exploits](../../../../../tokyoking/ctf/tree/main/format_string)
+### Format String
 
 - [ROP from saved rip of main](../../../../../tokyoking/ctf/tree/main/format_string/BACKDOOR23/Baby_formatter)
 
