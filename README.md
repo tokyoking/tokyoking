@@ -1,3 +1,4 @@
+<p align='center'>
 ## Hi there 👋
 
 #### dumping my notes for future reference.   
