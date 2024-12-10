@@ -1,6 +1,5 @@
-<p align='center'>
 ## Hi there 👋
-
+<p align='center'>
 #### dumping my notes for future reference.   
 
 <p align='center'>
