@@ -10,4 +10,4 @@
 <b>dumping my notes for future reference</b>
 </p>
 
-[ABout heap](../../../../../tokyoking/ctf/heap/tcache/BACKDOOR23/Konsolidator/README.md)
+[ABout heap](../../../../../tokyoking/ctf/heap/tcache/)
