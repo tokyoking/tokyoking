@@ -9,5 +9,5 @@
 <p align='center'>
 <b>dumping my notes for future reference</b>
 </p>
-tree/main/heap/tcache/BACKDOOR23/Konsolidator
+
 [ABout heap](../../../../../tokyoking/ctf/tree/main/heap/tcache/BACKDOOR23/Konsolidator)
