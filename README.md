@@ -11,6 +11,8 @@ dumping my notes for future reference
 </p>
 <p align='center'>
 <b>please let me know on discord (.tokyoking) if you spot a mistake or have a question</b>
+
+  im a newbie (╥_╥)
 </p>
 
 ### Heap
