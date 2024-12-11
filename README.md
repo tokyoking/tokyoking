@@ -7,7 +7,8 @@
 </p>
 
 <p align='center'>
-<b>dumping my notes for future reference</b>
+dumping my notes for future reference
+<b>contact me on discord (.tokyoking)if you spot a mistake or questions</b>
 </p>
 
 ### Heap
