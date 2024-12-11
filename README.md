@@ -10,7 +10,7 @@
 dumping my notes for future reference
 </p>
 <p align='center'>
-<b>contact me on discord (.tokyoking) if you spot a mistake or have a question</b>
+<b>please let me know on discord (.tokyoking) if you spot a mistake or have a question</b>
 </p>
 
 ### Heap
