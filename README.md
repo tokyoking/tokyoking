@@ -27,6 +27,10 @@ dumping my notes for future reference
 - [fastbin dup attack into free_hook overwrite](../../../../../tokyoking/ctf/tree/main/heap/otherbins/JUSTCTF22/pwn_notes/)
 
 
+**Glibc 2.29**
+
+- [house of force attack into overwriting malloc hook](../../../../../tokyoking/ctf/tree/main/heap/otherbins/SUNSHINECTF23/House_of_Sus)
+
 ### Format String
 
 - [write ROP to saved rip of main](../../../../../tokyoking/ctf/tree/main/format_string/BACKDOOR23/Baby_formatter)
