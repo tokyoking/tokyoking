@@ -13,7 +13,7 @@ dumping my notes for future reference
 <b>please let me know on discord (.tokyoking) if you spot a mistake or have a question</b>
 </p>
 <p align='center'>
-  im a newbie (╥_╥)
+  newbie pwner (╥_╥)
 </p>
 
 ### Heap
