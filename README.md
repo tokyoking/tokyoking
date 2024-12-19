@@ -22,7 +22,7 @@ dumping my notes for future reference
 
 **Glibc 2.35**
 
-- [getting leaks via UAF to perform house of botcake attack into FSOP on stdout to leak a stack addr then ROP to bypass seccomp](../../../../../tokyoking/ctf/tree/main/heap/otherbins/ImaginaryCTF23/mailman/README.md)
+- [getting leaks via UAF to perform house of botcake attack into FSOP on stdout to leak a stack addr then ROP to fgets() stackframe to write out the flag to stdout](../../../../../tokyoking/ctf/tree/main/heap/otherbins/ImaginaryCTF23/mailman/README.md)
 
 **Glibc 2.31**
 
