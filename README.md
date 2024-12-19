@@ -20,6 +20,10 @@ dumping my notes for future reference
 
 [HEAP techniques](../../../../../tokyoking/ctf/tree/main/heap/)
 
+**Glibc 2.35**
+
+- [fake chunk into overwriting got entries to get a leak](../../../../../tokyoking/ctf/tree/main/heap/tcache/BACKDOOR23/Konsolidator)
+
 **Glibc 2.31**
 
 - [fake chunk into overwriting got entries to get a leak](../../../../../tokyoking/ctf/tree/main/heap/tcache/BACKDOOR23/Konsolidator)
