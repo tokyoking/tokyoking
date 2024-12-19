@@ -22,7 +22,7 @@ dumping my notes for future reference
 
 **Glibc 2.35**
 
-- [fake chunk into overwriting got entries to get a leak](../../../../../tokyoking/ctf/tree/main/heap/tcache/BACKDOOR23/Konsolidator)
+- [getting leaks via UAF to perform house of botcake attack into FSOP on stdout to leak a stack addr then ROP to bypass seccomp](../../../../../tokyoking/ctf/tree/main/heap/otherbins/ImaginaryCTF23/mailman/README.md)
 
 **Glibc 2.31**
 
